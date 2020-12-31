@@ -1,9 +1,7 @@
 click==7.1.2
-dataclasses==0.8
 fastapi==0.63.0
 h11==0.11.0
 httptools==0.1.1
-pkg-resources==0.0.0
 pydantic==1.7.3
 python-dotenv==0.15.0
 PyYAML==5.3.1
